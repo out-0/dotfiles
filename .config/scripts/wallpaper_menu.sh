@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/Pictures/my_wallpapers"
+WALLPAPER_DIR="$HOME/Downloads/"
 
 # Start swww-daemon if it's not running
 pgrep -x swww-daemon > /dev/null || swww-daemon &
@@ -14,4 +14,3 @@ SELECTED=$(ls "$WALLPAPER_DIR" | rofi -dmenu -p "Choose wallpaper")
 
 # Set the selected wallpaper
 swww img "$WALLPAPER_DIR/$SELECTED" --transition-type any --transition-duration 0.5 --transition-fps 60
-

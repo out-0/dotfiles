@@ -154,9 +154,6 @@ vim.opt.termguicolors = true   -- Enable 24-bit colors (required for themes)
 -- Enable dark background
 vim.opt.background = "dark"
 
--- Set theme
-pcall(vim.cmd, "colorscheme catppuccin") -- use pcall to avoid error if theme isn't ready
-
 -- Use system clipboard
 vim.opt.clipboard = "unnamedplus"
 
@@ -167,4 +164,11 @@ vim.keymap.set("n", "<C-n>", ":NvimTreeToggle<CR>", { desc = "Toggle file explor
 vim.keymap.set("n", "<leader>ff", ":Telescope find_files<CR>", { desc = "Find files" })
 vim.keymap.set("n", "<leader>fg", ":Telescope live_grep<CR>", { desc = "Find text (grep)" })
 vim.keymap.set("n", "<leader>fb", ":Telescope buffers<CR>", { desc = "List open buffers" })
+
+-- Make Neovim use terminal background (transparent)
+vim.cmd [[
+  highlight Normal ctermbg=none guibg=none
+  highlight NormalNC ctermbg=none guibg=none
+  highlight NormalFloat ctermbg=none guibg=none
+]]
 
