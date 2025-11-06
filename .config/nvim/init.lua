@@ -18,9 +18,6 @@ require("lazy").setup({
   {
     "nvim-tree/nvim-tree.lua",
     dependencies = { "nvim-tree/nvim-web-devicons" },
-<<<<<<< HEAD
-    config = function() require("nvim-tree").setup() end,
-=======
     config = function() require("nvim-tree").setup({
 			sort = {
 				sorter = "case_sensitive",
@@ -44,7 +41,6 @@ require("lazy").setup({
           		dotfiles = false, -- Set to false to SHOW dotfiles
         	},
 		}) end,
->>>>>>> test-branch
   },
   {
     "nvim-lualine/lualine.nvim",
