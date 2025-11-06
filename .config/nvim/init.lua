@@ -18,7 +18,33 @@ require("lazy").setup({
   {
     "nvim-tree/nvim-tree.lua",
     dependencies = { "nvim-tree/nvim-web-devicons" },
+<<<<<<< HEAD
     config = function() require("nvim-tree").setup() end,
+=======
+    config = function() require("nvim-tree").setup({
+			sort = {
+				sorter = "case_sensitive",
+			},
+			view = {
+				width = 30,
+			},
+			renderer = {
+          		group_empty = true,
+          -- This tells nvim-tree to use the icons
+          		icons = {
+            		show = {
+              			file = true,
+              			folder = true,
+              			folder_arrow = true,
+              			git = true,
+            		},
+          		},
+        	},
+			filters = {
+          		dotfiles = false, -- Set to false to SHOW dotfiles
+        	},
+		}) end,
+>>>>>>> test-branch
   },
   {
     "nvim-lualine/lualine.nvim",
