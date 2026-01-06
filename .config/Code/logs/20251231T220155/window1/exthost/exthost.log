@@ -1,0 +1,33 @@
+2025-12-31 22:01:59.015 [info] Extension host with pid 11936 started
+2025-12-31 22:01:59.015 [info] Skipping acquiring lock for /home/out/.config/Code/User/workspaceStorage/de3ef29eb4764083cc31bc67b286d360.
+2025-12-31 22:01:59.228 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-31 22:01:59.279 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-31 22:01:59.424 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-31 22:01:59.486 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-31 22:01:59.597 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-31 22:01:59.857 [info] Eager extensions activated
+2025-12-31 22:01:59.912 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:01:59.916 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:01:59.949 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:01:59.974 [info] ExtensionService#_doActivateExtension HenryTsz.nvim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:02:00.157 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:02:00.182 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:02:00.395 [info] ExtensionService#_doActivateExtension subframe7536.custom-ui-style, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:02:00.408 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-31 22:02:00.799 [error] Activating extension vscodevim.vim failed due to an error:
+2025-12-31 22:02:00.799 [error] Error: command 'type' already exists
+	at cA.registerCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:40442)
+	at Object.registerCommand (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:212:101510)
+	at A (/home/out/.vscode/extensions/vscodevim.vim-1.32.4/out/extension.js:2:40293)
+	at t.activate (/home/out/.vscode/extensions/vscodevim.vim-1.32.4/out/extension.js:2:35773)
+	at async t.activate (/home/out/.vscode/extensions/vscodevim.vim-1.32.4/out/extension.js:2:791310)
+	at async Ky.n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13398)
+	at async Ky.m (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13361)
+	at async Ky.l (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:12817)
+2025-12-31 22:02:01.782 [error] Error: ENOENT: no such file or directory, open '/home/out/.config/Code/User/globalStorage/henrytsz.nvim/.registers'
+2025-12-31 22:02:01.800 [error] Error: ENOENT: no such file or directory, open '/home/out/.config/Code/User/globalStorage/vscodevim.vim/.registers'
+2025-12-31 22:02:45.847 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-31 22:02:45.877 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-12-31 22:02:46.801 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-12-31 23:37:49.987 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-31 23:37:50.035 [info] Extension host with pid 11936 exiting with code 0

@@ -1,0 +1,33 @@
+2025-12-09 23:56:38.030 [info] Extension host with pid 70919 started
+2025-12-09 23:56:38.030 [info] Skipping acquiring lock for /home/out/.config/Code/User/workspaceStorage/de3ef29eb4764083cc31bc67b286d360.
+2025-12-09 23:56:38.287 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-09 23:56:38.314 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-09 23:56:38.331 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 23:56:38.341 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 23:56:38.404 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-09 23:56:38.958 [info] ExtensionService#_doActivateExtension HenryTsz.nvim, startup: false, activationEvent: 'onCommand:type'
+2025-12-09 23:56:39.080 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-09 23:56:39.185 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-09 23:56:39.253 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-09 23:56:39.433 [info] Eager extensions activated
+2025-12-09 23:56:39.444 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 23:56:39.446 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 23:56:39.466 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 23:56:39.480 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 23:56:39.493 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-12-09 23:56:39.597 [info] ExtensionService#_doActivateExtension subframe7536.custom-ui-style, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 00:44:29.777 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-10 00:44:29.838 [error] TypeError: r.some is not a function
+	at h.saveToDisk (/home/out/.vscode/extensions/henrytsz.nvim-2.2.2/out/extension.js:2:663606)
+	at t.deactivate (/home/out/.vscode/extensions/henrytsz.nvim-2.2.2/out/extension.js:2:798917)
+	at kX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-10 00:44:29.840 [info] Extension host with pid 70919 exiting with code 0

@@ -1,0 +1,32 @@
+return {
+  -- Use the full name to ensure it merges with LazyVim's default
+  "folke/snacks.nvim",
+  opts = {
+    dashboard = {
+      preset = {
+        -- Your custom header
+        header = [[
+██╗   ██╗███████╗███████╗     ███╗   ███╗███████╗
+██║   ██║██╔════╝██╔════╝     ████╗ ████║██╔════╝
+██║   ██║███████╗█████╗       ██╔████╔██║█████╗  
+██║   ██║╚════██║██╔══╝       ██║╚██╔╝██║██╔══╝  
+╚██████╔╝███████║███████╗     ██║ ╚═╝ ██║███████╗
+ ╚═════╝ ╚══════╝╚══════╝     ╚═╝     ╚═╝╚══════╝
+      ]],
+
+        -- Using Lua functions for 'action' is safer than strings
+        keys = {
+          { icon = " ", key = "f", desc = "Find File", action = function() Snacks.dashboard.pick('files') end },
+          { icon = " ", key = "n", desc = "New File", action = ":ene | startinsert" },
+          { icon = " ", key = "g", desc = "Find Text", action = function() Snacks.dashboard.pick('live_grep') end },
+          { icon = " ", key = "r", desc = "Recent Files", action = function() Snacks.dashboard.pick('oldfiles') end },
+          { icon = " ", key = "c", desc = "Config", action = function() Snacks.dashboard.pick('files', {cwd = vim.fn.stdpath('config')}) end },
+          { icon = " ", key = "s", desc = "Restore Session", section = "session" },
+          { icon = " ", key = "x", desc = "Lazy Extras", action = ":LazyExtras" },
+          { icon = "󰒲 ", key = "l", desc = "Lazy", action = ":Lazy" },
+          { icon = " ", key = "q", desc = "Quit", action = ":qa" },
+        },
+      },
+    },
+  },
+}

@@ -1,0 +1,13 @@
+2025-12-10 00:44:30.477 [info] update#setState idle
+2025-12-10 00:44:36.096 [error] #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/bf9252a2fb45be6893dd8870c0bf37e2e1766d61 - error undefined net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:36.097 [error] update#isLatestVersion(): failed to check for updates
+2025-12-10 00:44:36.097 [error] Error: net::ERR_CERT_COMMON_NAME_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123970)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-10 00:44:37.897 [error] #2: https://update.code.visualstudio.com/api/update/linux-x64/stable/bf9252a2fb45be6893dd8870c0bf37e2e1766d61 - error undefined net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:37.897 [error] update#isLatestVersion(): failed to check for updates
+2025-12-10 00:44:37.897 [error] Error: net::ERR_CERT_COMMON_NAME_INVALID
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123970)
+    at SimpleURLLoaderWrapper.emit (node:events:519:28)
+2025-12-10 00:44:55.966 [info] Extension host with pid 73017 exited with code: 0, signal: unknown.
+2025-12-10 00:44:56.050 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 73032]: crashed with code 15 and reason 'killed'

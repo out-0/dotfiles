@@ -1,0 +1,88 @@
+{
+    "files.autoSave": "afterDelay",
+    //"editor.fontFamily": "Noto Sans Mono Black",
+    "editor.fontFamily": "Dank mono",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 2,
+    "editor.lineNumbers": "relative",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "editor.guides.indentation": false, // line to guide the indetention
+    "editor.renderLineHighlight": "none", // highlight the currecnt line.
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.overviewRulerBorder": false, // a border at the right showing the scrolling.
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.snippetSuggestions": "top",
+    "emmet.triggerExpansionOnTab": true,
+    "terminal.integrated.fontFamily": "mono",
+    "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "single",
+    "workbench.statusBar.visible": true,
+    "workbench.startupEditor": "none",
+    //"workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+	"workbench.tree.indent": 16,
+	"explorer.compactFolders": false,
+	"explorer.confirmDragAndDrop": false,
+	"explorer.decorations.badges": false,
+    "git.decorations.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "window.titleBarStyle": "custom",
+    "custom-ui-style.electron": {
+        "titleBarStyle": "hidden",
+    },
+    "editor.cursorBlinking": "solid",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorStyle": "block",
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#000000",
+        "sideBar.background": "#191521",
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+            "scope": "comment",
+            "settings": {
+                "fontStyle": "italic",
+            }
+            }
+        ]
+    },
+    "editor.stickyScroll.enabled": false,
+    "editor.codeLens": false,
+    "editor.links": false,
+    "editor.matchBrackets": "never",
+    "editor.lightbulb.enabled": "off",
+    "files.trimTrailingWhitespace": true,
+    "scm.diffDecorations": "none",
+    "update.mode": "none",
+    "extensions.ignoreRecommendations": true,
+    "find-it-faster.general.useTerminalInEditor": true,
+
+    "vim.leader": " ",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<leader>", "f"],
+            "commands": ["find-it-faster.findFiles"]
+        },
+        {
+            "before": ["<leader>", "e"],
+            "commands": ["workbench.action.toggleSidebarVisibility"]
+        },
+        {
+            "before": ["<leader>", "t"],
+            "commands": ["workbench.action.terminal.toggleTerminal"]
+        },
+        {
+            "before": ["<leader>", "s"],
+            "commands": ["workbench.action.findInFiles"]
+        }
+    ]
+}

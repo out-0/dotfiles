@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "space e",
+        "command": "workbench.action.toggleSidebarVisibility",
+    },
+   /* {
+        "key": "space e",
+        "command": "workbench.view.explorer",
+    },*/
+    {
+        "key": "space f",
+        "command": "workbench.action.quickOpen"
+    },
+    {
+        "key": "space f",
+        "command": "find-it-faster.findWithinFiles"
+    }
+]

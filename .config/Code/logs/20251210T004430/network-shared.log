@@ -1,0 +1,6 @@
+2025-12-10 00:44:35.261 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:36.976 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:38.992 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:40.571 [error] #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:42.123 [error] #5: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:44:54.638 [error] #6: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID

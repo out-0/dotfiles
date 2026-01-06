@@ -1,0 +1,61 @@
+2025-12-10 01:41:29.555 [info] Extension host with pid 77912 started
+2025-12-10 01:41:29.555 [info] Skipping acquiring lock for /home/out/.config/Code/User/workspaceStorage/de3ef29eb4764083cc31bc67b286d360.
+2025-12-10 01:41:29.823 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-12-10 01:41:29.851 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-12-10 01:41:29.880 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-10 01:41:29.889 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-10 01:41:29.947 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-12-10 01:41:30.089 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2025-12-10 01:41:30.538 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-12-10 01:41:30.583 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-12-10 01:41:30.639 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-12-10 01:41:30.855 [info] Eager extensions activated
+2025-12-10 01:41:30.912 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:30.914 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:30.936 [info] ExtensionService#_doActivateExtension alefragnani.project-manager, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:30.949 [info] ExtensionService#_doActivateExtension HenryTsz.nvim, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:31.063 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:31.076 [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:41:31.162 [info] ExtensionService#_doActivateExtension subframe7536.custom-ui-style, startup: false, activationEvent: 'onStartupFinished'
+2025-12-10 01:48:19.239 [warning] TextEditor is closed/disposed
+2025-12-10 01:48:19.239 [warning] TextEditor is closed/disposed
+2025-12-10 01:48:19.251 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2025-12-10 01:48:19.251 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model1)
+2025-12-10 01:48:21.148 [warning] TextEditor is closed/disposed
+2025-12-10 01:48:21.148 [warning] TextEditor is closed/disposed
+2025-12-10 01:48:21.161 [warning] ExtHostTextEditorOptions 'setCursorStyle' failed:'
+2025-12-10 01:48:21.161 [warning] Illegal argument: TextEditor(vs.editor.ICodeEditor:1,$model4)
+2025-12-10 01:48:21.284 [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+2025-12-10 01:50:44.785 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-12-10 01:51:31.028 [warning] TextEditor is closed/disposed
+2025-12-10 01:51:31.028 [warning] TextEditor is closed/disposed
+2025-12-10 01:52:19.079 [info] ExtensionService#_doActivateExtension TomRijndorp.find-it-faster, startup: false, activationEvent: 'onCommand:find-it-faster.findFiles'
+2025-12-10 01:52:52.542 [info] Extension host terminating: renderer closed the MessagePort
+2025-12-10 01:52:52.591 [error] TypeError: r.some is not a function
+	at h.saveToDisk (/home/out/.vscode/extensions/henrytsz.nvim-2.2.2/out/extension.js:2:663606)
+	at t.deactivate (/home/out/.vscode/extensions/henrytsz.nvim-2.2.2/out/extension.js:2:798917)
+	at kX.eb (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:11850)
+	at file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10000
+	at Array.map (<anonymous>)
+	at kX.$ (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:9988)
+	at kX.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:118:10231)
+	at nN.terminate (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:120:914)
+	at Fs (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:10411)
+	at MessagePortMain.<anonymous> (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:402:6949)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2949)
+2025-12-10 01:52:52.594 [error] Error: Terminal has already been disposed
+	at Jy.z (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:47913)
+	at Object.sendText (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:114:46254)
+	at handleCanaryFileChange (/home/out/.vscode/extensions/tomrijndorp.find-it-faster-0.0.39/out/extension.js:534:14)
+	at FSWatcher.<anonymous> (/home/out/.vscode/extensions/tomrijndorp.find-it-faster-0.0.39/out/extension.js:485:13)
+	at FSWatcher.emit (node:events:519:28)
+	at FSWatcher._handle.onchange (node:internal/fs/watchers:222:12)
+2025-12-10 01:52:52.603 [error] Error: Channel has been closed
+	at n (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:2816)
+	at Object.info (file:///opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:3161)
+	at T.info (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:45257)
+	at ChildProcess.<anonymous> (/opt/visual-studio-code/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:600506)
+	at ChildProcess.emit (node:events:519:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-12-10 01:52:52.633 [info] Extension host with pid 77912 exiting with code 0

@@ -1,0 +1,40 @@
+2025-12-09 23:44:42.260 [info] [main] Log level: Info
+2025-12-09 23:44:42.260 [info] [main] Validating found git in: "git"
+2025-12-09 23:44:42.260 [info] [main] Using git "2.52.0" from "git"
+2025-12-09 23:44:42.260 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-09 23:44:42.260 [info] > git rev-parse --show-toplevel [10ms]
+2025-12-09 23:44:42.260 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:44:42.260 [info] > git rev-parse --show-toplevel [12ms]
+2025-12-09 23:44:42.260 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [3ms]
+2025-12-09 23:44:42.260 [info] [Model][openRepository] Opened repository (path): /home/out/work/push_me_too
+2025-12-09 23:44:42.260 [info] [Model][openRepository] Opened repository (real path): /home/out/work/push_me_too
+2025-12-09 23:44:42.260 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-09 23:44:42.260 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-09 23:44:42.260 [info] > git config --get commit.template [37ms]
+2025-12-09 23:44:42.264 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [10ms]
+2025-12-09 23:44:42.270 [info] > git rev-parse --show-toplevel [5ms]
+2025-12-09 23:44:42.270 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:44:42.682 [info] > git status -z -uall [13ms]
+2025-12-09 23:44:42.683 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-12-09 23:44:42.725 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [31ms]
+2025-12-09 23:44:42.731 [info] > git config --get --local branch.main.vscode-merge-base [3ms]
+2025-12-09 23:44:42.737 [info] > git config --get commit.template [12ms]
+2025-12-09 23:44:42.743 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [7ms]
+2025-12-09 23:44:42.760 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-12-09 23:44:42.771 [info] > git status -z -uall [6ms]
+2025-12-09 23:44:42.772 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-12-09 23:44:42.872 [info] > git rev-parse --show-toplevel [4ms]
+2025-12-09 23:44:42.872 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:44:43.056 [info] > git check-ignore -v -z --stdin [5ms]
+2025-12-09 23:45:23.127 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-09 23:45:23.127 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:45:24.189 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-09 23:45:24.189 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:45:29.595 [info] > git rev-parse --show-toplevel [6ms]
+2025-12-09 23:45:29.595 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:45:33.099 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-09 23:45:33.099 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:45:42.854 [info] > git rev-parse --show-toplevel [1ms]
+2025-12-09 23:45:42.854 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-09 23:46:04.164 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-09 23:46:04.164 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,6 @@
+2025-12-10 00:43:39.373 [error] #427: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:43:41.344 [error] #428: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:43:42.717 [error] #429: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:43:43.888 [error] #430: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:43:55.972 [error] #431: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID
+2025-12-10 00:43:59.465 [error] #432: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_CERT_COMMON_NAME_INVALID

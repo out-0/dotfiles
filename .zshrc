@@ -70,7 +70,7 @@ alias .5='cd ../../../../..'
 # Core utility aliases
 # ---------------------------
 alias l='eza -lh --icons=auto'
-alias ls='eza -1 --icons=auto'
+alias ls='eza -lia --icons=auto'
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first'
 alias ld='eza -lhD --icons=auto'
 alias mkdir='mkdir -p'
@@ -147,3 +147,5 @@ eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
 
+alias py='clear; python3'
+export PATH="$PATH:/home/out/.local/bin"

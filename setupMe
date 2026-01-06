@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Create .config file if not exist
+mkdir -p ~/.config
+
+# link the folers into the home .config
+ln -s ~/dotfiles/.config/nvim ~/.config/nvim
+ln -s ~/dotfiles/.config/starship.toml ~/.config/starship.toml
+ln -s ~/dotfiles/.config/swaylock/  ~/.config/swaylock
+ln -s ~/dotfiles/.config/kitty/  ~/.config/kitty
+ln -s ~/dotfiles/.config/wlogout/  ~/.config/wlogout
+ln -s ~/dotfiles/.config/hypr/  ~/.config/hypr
+ln -s ~/dotfiles/.config/fish/  ~/.config/fish
+ln -s ~/dotfiles/.config/fastfetch/ ~/.config/fastfetch
+ln -s ~/dotfiles/.config/Code/ ~/.config/Code
+ln -s ~/dotfiles/.zshrc ~/.zshrc

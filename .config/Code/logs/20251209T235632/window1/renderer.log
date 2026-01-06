@@ -1,0 +1,416 @@
+2025-12-09 23:56:37.396 [info] Started local extension host with pid 70919.
+2025-12-09 23:56:38.808 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-09 23:56:39.049 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-09 23:56:40.235 [info] [perf] Render performance baseline is 53ms
+2025-12-09 23:56:57.408 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1107 (line 31 column 1)
+2025-12-09 23:56:57.517 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1107 (line 31 column 1)
+2025-12-09 23:56:57.520 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1107 (line 31 column 1)
+2025-12-09 23:56:59.947 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1113 (line 31 column 1)
+2025-12-09 23:57:00.048 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1113 (line 31 column 1)
+2025-12-09 23:57:00.050 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1113 (line 31 column 1)
+2025-12-09 23:57:00.995 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ations": 
+}" is not valid JSON
+2025-12-09 23:57:01.099 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ations": 
+}" is not valid JSON
+2025-12-09 23:57:01.101 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ations": 
+}" is not valid JSON
+2025-12-09 23:57:08.504 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1148 (line 32 column 5)
+2025-12-09 23:57:08.614 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1148 (line 32 column 5)
+2025-12-09 23:57:08.616 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1148 (line 32 column 5)
+2025-12-09 23:57:10.340 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:10.429 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:10.429 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:13.783 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1155 (line 32 column 5)
+2025-12-09 23:57:13.877 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1155 (line 32 column 5)
+2025-12-09 23:57:13.880 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1155 (line 32 column 5)
+2025-12-09 23:57:15.084 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:15.193 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:15.194 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:19.764 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:19.859 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:19.859 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1151 (line 32 column 5)
+2025-12-09 23:57:22.142 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:22.240 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:22.241 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1156 (line 32 column 5)
+2025-12-09 23:57:23.841 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1168 (line 32 column 5)
+2025-12-09 23:57:23.947 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1168 (line 32 column 5)
+2025-12-09 23:57:23.948 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1168 (line 32 column 5)
+2025-12-09 23:57:27.814 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    }
+}" is not valid JSON
+2025-12-09 23:57:27.919 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    }
+}" is not valid JSON
+2025-12-09 23:57:27.921 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    }
+}" is not valid JSON
+2025-12-09 23:57:29.988 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:30.093 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:30.094 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:32.415 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:32.520 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:32.521 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '#', ..."kground": #
+    }
+}" is not valid JSON
+2025-12-09 23:57:49.873 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:57:49.978 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:57:49.980 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:57:55.291 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:57:55.400 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:57:55.402 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:01.642 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:01.745 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:01.746 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:07.384 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:07.489 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:07.491 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:09.127 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:09.236 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:09.237 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:11.066 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:11.157 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:11.159 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:12.151 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:12.254 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:12.254 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:19.776 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:19.876 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:19.877 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:29.711 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:29.811 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-09 23:58:29.824 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1183 (line 32 column 9)
+2025-12-10 00:00:40.234 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 103 (line 6 column 5)
+2025-12-10 00:00:40.342 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 103 (line 6 column 5)
+2025-12-10 00:00:40.345 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 103 (line 6 column 5)
+2025-12-10 00:03:28.930 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 125 (line 7 column 5)
+2025-12-10 00:03:29.038 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 125 (line 7 column 5)
+2025-12-10 00:03:29.040 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 125 (line 7 column 5)
+2025-12-10 00:04:42.349 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unterminated fractional number in JSON at position 169 (line 7 column 28)
+2025-12-10 00:04:42.473 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unterminated fractional number in JSON at position 169 (line 7 column 28)
+2025-12-10 00:04:42.473 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unterminated fractional number in JSON at position 169 (line 7 column 28)
+2025-12-10 00:06:08.400 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:08.506 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:08.507 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:13.179 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:13.281 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:13.282 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:21.158 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:21.261 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:21.263 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:23.313 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:23.414 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:23.420 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:28.266 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:28.369 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:28.370 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:30.845 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:30.952 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:30.954 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:41.162 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:41.258 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:41.259 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:47.140 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:47.239 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:47.240 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:50.643 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:50.752 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:50.755 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:52.641 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:52.745 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:06:52.746 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:00.170 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:00.289 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:00.290 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:01.240 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:01.343 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:01.345 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:02.701 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:02.804 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:02.805 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:05.381 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:05.483 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:05.483 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:06.495 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:06.599 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:06.601 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:21.280 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:21.383 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:21.384 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:28.371 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:28.480 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:28.483 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:34.079 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:34.183 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:34.197 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:36.660 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:36.753 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:36.754 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:38.668 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:38.765 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:38.765 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:45.177 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:45.276 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:45.277 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:49.762 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:49.866 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:49.867 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:56.200 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:56.305 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:07:56.306 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:01.100 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:01.209 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:01.210 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:04.596 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:04.702 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:04.704 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:07.304 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:07.408 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:07.410 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:10.533 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:10.634 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:10.635 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:17.789 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:17.891 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:17.892 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:23.212 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:23.314 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:23.315 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:27.828 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:27.935 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:27.936 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.238 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.329 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.330 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.463 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.566 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:08:29.568 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:20.504 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:20.608 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:20.609 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:26.233 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:26.320 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:26.321 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:30.712 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:30.814 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:30.816 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:36.600 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:36.709 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:36.710 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:52.750 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:52.859 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:52.886 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:55.551 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:55.651 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:11:55.653 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:00.728 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:00.803 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:00.803 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:06.275 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:06.370 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:06.386 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:07.508 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:07.602 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:07.603 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:51.045 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:51.148 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:51.150 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:56.472 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:56.573 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:12:56.574 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:39.564 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:39.666 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:39.668 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:41.762 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:41.870 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:41.870 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:42.929 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:43.032 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:13:43.032 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:51.998 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:52.100 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:52.101 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:53.514 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:53.614 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:53.616 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:55.056 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:55.161 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:55.162 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:57.841 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:57.946 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:14:57.948 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:07.400 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:07.499 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:07.501 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:55.395 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:55.505 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:55.507 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:57.629 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:57.726 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:15:57.727 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:09.685 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:09.787 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:09.788 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:11.417 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:11.513 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:11.514 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:15.303 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:15.411 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:15.413 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:18.556 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:18.653 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:16:18.653 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:29.217 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:29.323 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:29.324 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:33.525 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:33.632 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:17:33.634 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 1268 (line 37 column 5)
+2025-12-10 00:19:03.368 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."Numbers": ,
+    "ter"... is not valid JSON
+2025-12-10 00:19:03.468 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."Numbers": ,
+    "ter"... is not valid JSON
+2025-12-10 00:19:03.470 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."Numbers": ,
+    "ter"... is not valid JSON
+2025-12-10 00:20:22.499 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:22.597 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:22.598 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:35.326 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 256 (line 11 column 5)
+2025-12-10 00:20:35.428 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 256 (line 11 column 5)
+2025-12-10 00:20:35.429 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 256 (line 11 column 5)
+2025-12-10 00:20:38.241 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:38.344 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:38.346 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:40.968 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:41.074 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:20:41.075 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:21:46.695 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:21:46.800 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:21:46.803 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 255 (line 11 column 5)
+2025-12-10 00:22:45.656 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 289 (line 12 column 5)
+2025-12-10 00:22:45.765 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 289 (line 12 column 5)
+2025-12-10 00:22:45.766 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 289 (line 12 column 5)
+2025-12-10 00:22:48.226 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 294 (line 12 column 5)
+2025-12-10 00:22:48.329 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 294 (line 12 column 5)
+2025-12-10 00:22:48.331 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 294 (line 12 column 5)
+2025-12-10 00:22:49.299 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 295 (line 12 column 5)
+2025-12-10 00:22:49.407 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 295 (line 12 column 5)
+2025-12-10 00:22:49.409 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 295 (line 12 column 5)
+2025-12-10 00:24:17.454 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."ghlight": ,
+    "ter"... is not valid JSON
+2025-12-10 00:24:17.562 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."ghlight": ,
+    "ter"... is not valid JSON
+2025-12-10 00:24:17.564 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."ghlight": ,
+    "ter"... is not valid JSON
+2025-12-10 00:26:57.327 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 377 (line 14 column 5)
+2025-12-10 00:26:57.429 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 377 (line 14 column 5)
+2025-12-10 00:26:57.430 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 377 (line 14 column 5)
+2025-12-10 00:27:01.543 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."izontal": ,
+    "ter"... is not valid JSON
+2025-12-10 00:27:01.646 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."izontal": ,
+    "ter"... is not valid JSON
+2025-12-10 00:27:01.646 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."izontal": ,
+    "ter"... is not valid JSON
+2025-12-10 00:27:25.226 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-12-10 00:28:49.273 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 459 (line 16 column 5)
+2025-12-10 00:28:49.414 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 459 (line 16 column 5)
+2025-12-10 00:28:49.414 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 459 (line 16 column 5)
+2025-12-10 00:28:56.317 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 470 (line 16 column 5)
+2025-12-10 00:28:56.413 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 470 (line 16 column 5)
+2025-12-10 00:28:56.414 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 470 (line 16 column 5)
+2025-12-10 00:35:30.721 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 554 (line 18 column 5)
+2025-12-10 00:35:30.828 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 554 (line 18 column 5)
+2025-12-10 00:35:30.829 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 554 (line 18 column 5)
+2025-12-10 00:35:32.807 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."estions": ,
+    "ter"... is not valid JSON
+2025-12-10 00:35:32.909 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."estions": ,
+    "ter"... is not valid JSON
+2025-12-10 00:35:32.911 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token ',', ..."estions": ,
+    "ter"... is not valid JSON
+2025-12-10 00:36:12.393 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 587 (line 19 column 5)
+2025-12-10 00:36:12.499 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 587 (line 19 column 5)
+2025-12-10 00:36:12.501 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 587 (line 19 column 5)
+2025-12-10 00:38:38.809 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1721 (line 48 column 5)
+2025-12-10 00:38:38.928 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1721 (line 48 column 5)
+2025-12-10 00:38:38.928 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1721 (line 48 column 5)
+2025-12-10 00:38:43.200 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1718 (line 47 column 17)
+2025-12-10 00:38:43.329 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1718 (line 47 column 17)
+2025-12-10 00:38:43.330 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1718 (line 47 column 17)
+2025-12-10 00:38:45.649 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1735 (line 48 column 5)
+2025-12-10 00:38:45.760 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1735 (line 48 column 5)
+2025-12-10 00:38:45.761 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 1735 (line 48 column 5)
+2025-12-10 00:38:47.129 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:38:47.233 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:38:47.234 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:38:49.088 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'r', ..."kground": red
+    },"... is not valid JSON
+2025-12-10 00:38:49.191 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'r', ..."kground": red
+    },"... is not valid JSON
+2025-12-10 00:38:49.195 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'r', ..."kground": red
+    },"... is not valid JSON
+2025-12-10 00:38:58.656 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1733 (line 47 column 32)
+2025-12-10 00:38:58.759 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1733 (line 47 column 32)
+2025-12-10 00:38:58.760 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1733 (line 47 column 32)
+2025-12-10 00:39:39.504 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1735 (line 47 column 34)
+2025-12-10 00:39:39.611 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1735 (line 47 column 34)
+2025-12-10 00:39:39.611 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 1735 (line 47 column 34)
+2025-12-10 00:39:42.096 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:42.200 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:42.201 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:43.783 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:39:43.886 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:39:43.887 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:39:45.746 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:45.848 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:45.850 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'b', ..."kground": blue
+    }"... is not valid JSON
+2025-12-10 00:39:50.496 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'g', ..."kground": green
+    "... is not valid JSON
+2025-12-10 00:39:50.597 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'g', ..."kground": green
+    "... is not valid JSON
+2025-12-10 00:39:50.598 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token 'g', ..."kground": green
+    "... is not valid JSON
+2025-12-10 00:40:24.536 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:40:24.640 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:40:24.641 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."nd": 
+    },
+    "ed"... is not valid JSON
+2025-12-10 00:43:44.522 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:43:44.631 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:43:44.632 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:44:17.038 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 2256 (line 66 column 26)
+2025-12-10 00:44:17.131 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 2256 (line 66 column 26)
+2025-12-10 00:44:17.132 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 2256 (line 66 column 26)

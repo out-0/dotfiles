@@ -1,0 +1,41 @@
+2025-12-10 00:44:35.070 [info] Started local extension host with pid 73017.
+2025-12-10 00:44:36.490 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-10 00:44:36.550 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-10 00:44:37.644 [error] Error while getting the latest version for the extension alefragnani.project-manager from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.646 [error] Error while getting the latest version for the extension henrytsz.nvim from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.647 [error] Error while getting the latest version for the extension josemurilloc.aura-spirit-dracula from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.654 [error] Error while getting the latest version for the extension ms-vscode.cmake-tools from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.654 [error] Error while getting the latest version for the extension ms-vscode.cpptools from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.655 [error] Error while getting the latest version for the extension ms-vscode.cpptools-extension-pack from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.656 [error] Error while getting the latest version for the extension ms-vscode.cpptools-themes from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.657 [error] Error while getting the latest version for the extension pkief.material-icon-theme from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.657 [error] Error while getting the latest version for the extension streetsidesoftware.code-spell-checker from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.659 [error] Error while getting the latest version for the extension subframe7536.custom-ui-style from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.660 [error] Error while getting the latest version for the extension talhabalaj.actual-font-changer from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2025-12-10 00:44:37.746 [error] Error while getting the latest version for the extension ms-vscode.cpptools-extension-pack. TypeError: Failed to fetch
+2025-12-10 00:44:37.748 [error] Error while getting the latest version for the extension subframe7536.custom-ui-style. TypeError: Failed to fetch
+2025-12-10 00:44:37.749 [error] Error while getting the latest version for the extension streetsidesoftware.code-spell-checker. TypeError: Failed to fetch
+2025-12-10 00:44:37.750 [error] Error while getting the latest version for the extension ms-vscode.cpptools. TypeError: Failed to fetch
+2025-12-10 00:44:37.754 [error] Error while getting the latest version for the extension pkief.material-icon-theme. TypeError: Failed to fetch
+2025-12-10 00:44:37.754 [error] Error while getting the latest version for the extension ms-vscode.cmake-tools. TypeError: Failed to fetch
+2025-12-10 00:44:37.762 [error] Error while getting the latest version for the extension josemurilloc.aura-spirit-dracula. TypeError: Failed to fetch
+2025-12-10 00:44:37.762 [error] Error while getting the latest version for the extension henrytsz.nvim. TypeError: Failed to fetch
+2025-12-10 00:44:37.763 [error] Error while getting the latest version for the extension alefragnani.project-manager. TypeError: Failed to fetch
+2025-12-10 00:44:37.767 [error] Error while getting the latest version for the extension ms-vscode.cpptools-themes. TypeError: Failed to fetch
+2025-12-10 00:44:37.767 [error] Error while getting the latest version for the extension talhabalaj.actual-font-changer. TypeError: Failed to fetch
+2025-12-10 00:44:37.879 [info] [perf] Render performance baseline is 56ms
+2025-12-10 00:44:39.806 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected double-quoted property name in JSON at position 2235 (line 66 column 5)
+2025-12-10 00:44:39.907 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected double-quoted property name in JSON at position 2235 (line 66 column 5)
+2025-12-10 00:44:39.909 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected double-quoted property name in JSON at position 2235 (line 66 column 5)
+2025-12-10 00:44:46.345 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:44:46.456 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:44:46.458 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."e.mode": 
+}" is not valid JSON
+2025-12-10 00:44:52.100 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2273 (line 68 column 1)
+2025-12-10 00:44:52.222 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2273 (line 68 column 1)
+2025-12-10 00:44:52.223 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2273 (line 68 column 1)
+2025-12-10 00:44:53.453 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2271 (line 68 column 1)
+2025-12-10 00:44:53.564 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2271 (line 68 column 1)
+2025-12-10 00:44:53.566 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 2271 (line 68 column 1)

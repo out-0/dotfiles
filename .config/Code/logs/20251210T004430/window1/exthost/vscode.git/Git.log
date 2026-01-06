@@ -1,0 +1,28 @@
+2025-12-10 00:44:36.990 [info] [main] Log level: Info
+2025-12-10 00:44:36.990 [info] [main] Validating found git in: "git"
+2025-12-10 00:44:36.990 [info] [main] Using git "2.52.0" from "git"
+2025-12-10 00:44:36.990 [info] [Model][doInitialScan] Initial repository scan started
+2025-12-10 00:44:36.990 [info] > git rev-parse --show-toplevel [7ms]
+2025-12-10 00:44:36.990 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-10 00:44:36.990 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-10 00:44:36.990 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [3ms]
+2025-12-10 00:44:36.990 [info] [Model][openRepository] Opened repository (path): /home/out/work/push_me_too
+2025-12-10 00:44:36.990 [info] [Model][openRepository] Opened repository (real path): /home/out/work/push_me_too
+2025-12-10 00:44:36.990 [info] [Model][openRepository] Opened repository (kind): repository
+2025-12-10 00:44:36.990 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-12-10 00:44:36.990 [info] > git config --get commit.template [4ms]
+2025-12-10 00:44:36.990 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-12-10 00:44:36.990 [info] > git status -z -uall [7ms]
+2025-12-10 00:44:36.990 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [35ms]
+2025-12-10 00:44:36.994 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-12-10 00:44:37.246 [info] > git config --get --local branch.main.vscode-merge-base [247ms]
+2025-12-10 00:44:37.252 [info] > git config --get commit.template [258ms]
+2025-12-10 00:44:37.346 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [95ms]
+2025-12-10 00:44:37.372 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2025-12-10 00:44:37.416 [info] > git status -z -uall [7ms]
+2025-12-10 00:44:37.419 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2025-12-10 00:44:37.562 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-10 00:44:37.562 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-12-10 00:44:37.753 [info] > git check-ignore -v -z --stdin [1ms]
+2025-12-10 00:44:52.419 [info] > git rev-parse --show-toplevel [2ms]
+2025-12-10 00:44:52.419 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,2 @@
+2025-12-10 01:41:29.477 [warning] Couldn't attach to process Could not find pty 3 on pty host []
+2025-12-10 01:41:29.477 [warning] Attach to process failed for terminal [{"id":3,"pid":74996,"title":"F️indItFaster","titleSource":1,"cwd":"","icon":{"id":"terminal","defaults":{"fontCharacter":"\\ea85"}},"hasChildProcesses":false,"hideFromUser":false,"shellIntegrationNonce":"4cceabfe-b9d6-40eb-90b9-d08270a83d87","findRevivedId":true}]

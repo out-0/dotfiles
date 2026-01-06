@@ -1,0 +1,25 @@
+2025-12-09 23:44:40.358 [info] Started local extension host with pid 68559.
+2025-12-09 23:44:41.878 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-09 23:44:42.035 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-09 23:44:43.175 [info] [perf] Render performance baseline is 53ms
+2025-12-09 23:45:42.550 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 945 (line 25 column 14)
+2025-12-09 23:45:42.652 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 945 (line 25 column 14)
+2025-12-09 23:45:42.653 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 945 (line 25 column 14)
+2025-12-09 23:45:45.424 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 965 (line 25 column 34)
+2025-12-09 23:45:45.529 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 965 (line 25 column 34)
+2025-12-09 23:45:45.530 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 965 (line 25 column 34)
+2025-12-09 23:45:48.907 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 968 (line 25 column 37)
+2025-12-09 23:45:49.007 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 968 (line 25 column 37)
+2025-12-09 23:45:49.007 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 968 (line 25 column 37)
+2025-12-09 23:45:52.658 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 971 (line 25 column 40)
+2025-12-09 23:45:52.762 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 971 (line 25 column 40)
+2025-12-09 23:45:52.765 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Bad control character in string literal in JSON at position 971 (line 25 column 40)
+2025-12-09 23:45:59.460 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ty": 
+    }
+}" is not valid JSON
+2025-12-09 23:45:59.563 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ty": 
+    }
+}" is not valid JSON
+2025-12-09 23:45:59.565 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Unexpected token '}', ..."ty": 
+    }
+}" is not valid JSON

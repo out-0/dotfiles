@@ -1,0 +1,24 @@
+2025-12-10 00:45:03.671 [error] #1: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/alefragnani/project-manager/latest - error GET Failed to fetch
+2025-12-10 00:45:03.673 [error] #2: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/henrytsz/nvim/latest - error GET Failed to fetch
+2025-12-10 00:45:03.679 [error] #3: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/josemurilloc/aura-spirit-dracula/latest - error GET Failed to fetch
+2025-12-10 00:45:03.681 [error] #4: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/cmake-tools/latest - error GET Failed to fetch
+2025-12-10 00:45:03.682 [error] #5: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/cpptools/latest - error GET Failed to fetch
+2025-12-10 00:45:03.693 [error] #6: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/cpptools-extension-pack/latest - error GET Failed to fetch
+2025-12-10 00:45:03.694 [error] #7: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/cpptools-themes/latest - error GET Failed to fetch
+2025-12-10 00:45:03.695 [error] #8: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/pkief/material-icon-theme/latest - error GET Failed to fetch
+2025-12-10 00:45:03.697 [error] #9: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/streetsidesoftware/code-spell-checker/latest - error GET Failed to fetch
+2025-12-10 00:45:03.699 [error] #10: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/subframe7536/custom-ui-style/latest - error GET Failed to fetch
+2025-12-10 00:45:03.704 [error] #11: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/talhabalaj/actual-font-changer/latest - error GET Failed to fetch
+2025-12-10 00:45:03.773 [error] #17: https://www.vscode-unpkg.net/_gallery/ms-vscode/cpptools-extension-pack/latest - error GET Failed to fetch
+2025-12-10 00:45:03.774 [error] #18: https://www.vscode-unpkg.net/_gallery/ms-vscode/cpptools-themes/latest - error GET Failed to fetch
+2025-12-10 00:45:03.775 [error] #15: https://www.vscode-unpkg.net/_gallery/ms-vscode/cmake-tools/latest - error GET Failed to fetch
+2025-12-10 00:45:03.776 [error] #16: https://www.vscode-unpkg.net/_gallery/ms-vscode/cpptools/latest - error GET Failed to fetch
+2025-12-10 00:45:03.777 [error] #14: https://www.vscode-unpkg.net/_gallery/josemurilloc/aura-spirit-dracula/latest - error GET Failed to fetch
+2025-12-10 00:45:03.778 [error] #19: https://www.vscode-unpkg.net/_gallery/pkief/material-icon-theme/latest - error GET Failed to fetch
+2025-12-10 00:45:03.779 [error] #12: https://www.vscode-unpkg.net/_gallery/alefragnani/project-manager/latest - error GET Failed to fetch
+2025-12-10 00:45:06.847 [error] #13: https://www.vscode-unpkg.net/_gallery/henrytsz/nvim/latest - error GET Failed to fetch
+2025-12-10 00:45:07.885 [error] #20: https://www.vscode-unpkg.net/_gallery/streetsidesoftware/code-spell-checker/latest - error GET Failed to fetch
+2025-12-10 00:45:10.959 [error] #21: https://www.vscode-unpkg.net/_gallery/subframe7536/custom-ui-style/latest - error GET Failed to fetch
+2025-12-10 00:45:14.986 [error] #22: https://www.vscode-unpkg.net/_gallery/talhabalaj/actual-font-changer/latest - error GET Failed to fetch
+2025-12-10 00:45:22.216 [error] #24: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2025-12-10 01:05:09.730 [error] #31: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled

@@ -1,0 +1,44 @@
+2025-12-10 01:41:28.890 [info] Started local extension host with pid 77912.
+2025-12-10 01:41:29.306 [error] Cannot read properties of undefined (reading 'querySelector'): TypeError: Cannot read properties of undefined (reading 'querySelector')
+    at fb.y (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:2940)
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3013:1595)
+    at I.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at I.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at cbn.Lb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:44024)
+    at cbn.tb (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:37408)
+    at Ple.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3828:28204)
+    at I.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at I.D (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+2025-12-10 01:41:30.403 [info] MCP Registry configured: https://api.mcp.github.com
+2025-12-10 01:41:30.568 [error] lock() request could not be registered.: InvalidStateError: lock() request could not be registered.
+2025-12-10 01:41:30.670 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-12-10 01:41:31.725 [info] [perf] Render performance baseline is 50ms
+2025-12-10 01:43:34.920 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 833 (line 24 column 5)
+2025-12-10 01:43:35.028 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 833 (line 24 column 5)
+2025-12-10 01:43:35.031 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 833 (line 24 column 5)
+2025-12-10 01:43:44.769 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 841 (line 24 column 5)
+2025-12-10 01:43:44.872 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 841 (line 24 column 5)
+2025-12-10 01:43:44.872 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 841 (line 24 column 5)
+2025-12-10 01:43:50.412 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 847 (line 24 column 5)
+2025-12-10 01:43:50.503 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 847 (line 24 column 5)
+2025-12-10 01:43:50.504 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 847 (line 24 column 5)
+2025-12-10 01:43:53.616 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 850 (line 24 column 5)
+2025-12-10 01:43:53.726 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 850 (line 24 column 5)
+2025-12-10 01:43:53.729 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 850 (line 24 column 5)
+2025-12-10 01:43:54.984 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 852 (line 24 column 5)
+2025-12-10 01:43:55.083 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 852 (line 24 column 5)
+2025-12-10 01:43:55.083 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 852 (line 24 column 5)
+2025-12-10 01:43:58.523 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 855 (line 24 column 5)
+2025-12-10 01:43:58.631 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 855 (line 24 column 5)
+2025-12-10 01:43:58.632 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ':' after property name in JSON at position 855 (line 24 column 5)
+2025-12-10 01:44:00.849 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 884 (line 24 column 32)
+2025-12-10 01:44:00.955 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 884 (line 24 column 32)
+2025-12-10 01:44:00.957 [warning] MCP migration: Failed to parse MCP config from vscode-userdata:/home/out/.config/Code/User/settings.json: Expected ',' or '}' after property value in JSON at position 884 (line 24 column 32)
+2025-12-10 01:47:05.375 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: workbench.secondarySideBar.enableDefaultVisibilityInOldWorkspace, extensions.requestTimeout, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay
+2025-12-10 01:48:21.463 [error] [Extension Host] (node:77912) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2025-12-10 01:49:03.546 [warning] [LM] No provider registered for vendor copilot
+2025-12-10 01:51:13.289 [warning] [LM] No provider registered for vendor copilot
+2025-12-10 01:51:13.636 [warning] [LM] No provider registered for vendor copilot
+2025-12-10 01:51:17.448 [warning] [LM] No provider registered for vendor copilot
