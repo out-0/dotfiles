@@ -13,4 +13,7 @@ ln -s ~/dotfiles/.config/hypr/  ~/.config/hypr
 ln -s ~/dotfiles/.config/fish/  ~/.config/fish
 ln -s ~/dotfiles/.config/fastfetch/ ~/.config/fastfetch
 ln -s ~/dotfiles/.config/Code/ ~/.config/Code
+ln -s ~/dotfiles/.config/rofi/ ~/.config/rofi
+ln -s ~/dotfiles/.config/scripts/ ~/.config/scripts
+ln -s ~/dotfiles/Wallpapers/ ~/.config/Wallpapers
 ln -s ~/dotfiles/.zshrc ~/.zshrc
