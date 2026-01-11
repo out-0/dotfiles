@@ -1,19 +1,38 @@
 #!/bin/bash
 
-# Create .config file if not exist
+# --- 1. SETUP DIRECTORIES ---
 mkdir -p ~/.config
+mkdir -p ~/.local/share
 
-# link the folers into the home .config
-ln -s ~/dotfiles/.config/nvim/ ~/.config/nvim
-ln -s ~/dotfiles/.config/starship.toml ~/.config/starship.toml
-ln -s ~/dotfiles/.config/swaylock/  ~/.config/swaylock
-ln -s ~/dotfiles/.config/kitty/  ~/.config/kitty
-ln -s ~/dotfiles/.config/wlogout/  ~/.config/wlogout
-ln -s ~/dotfiles/.config/hypr/  ~/.config/hypr
-ln -s ~/dotfiles/.config/fish/  ~/.config/fish
-ln -s ~/dotfiles/.config/fastfetch/ ~/.config/fastfetch
-ln -s ~/dotfiles/.config/Code/ ~/.config/Code
-ln -s ~/dotfiles/.config/rofi/ ~/.config/rofi
-ln -s ~/dotfiles/.config/scripts/ ~/.config/scripts
-ln -s ~/dotfiles/Wallpapers/ ~/.config/Wallpapers
-ln -s ~/dotfiles/.zshrc ~/.zshrc
+# --- 2. CONFIGURATION ---
+# Define your dotfiles path (use absolute path)
+DOT_DIR="$HOME/dotfiles"
+
+# List all items inside ~/dotfiles/.config/ that you want to link
+CONFIG_ITEMS=(
+    "nvim" "starship.toml" "swaylock" "kitty" "wlogout" 
+    "hypr" "fish" "fastfetch" "Code" "rofi" "scripts" "Wallpapers"
+)
+
+# --- 3. EXECUTION ---
+
+# A. Link Fonts
+echo "Linking fonts..."
+rm -rf ~/.local/share/fonts
+ln -s "$DOT_DIR/fonts" ~/.local/share/fonts
+fc-cache -fv > /dev/null
+
+# B. Link .config items using a loop
+echo "Linking config files..."
+for item in "${CONFIG_ITEMS[@]}"; do
+    rm -rf "$HOME/.config/$item"
+    ln -s "$DOT_DIR/.config/$item" "$HOME/.config/$item"
+    echo "  [✔] $item"
+done
+
+# C. Link home files (like .zshrc)
+echo "Linking home files..."
+rm -f "$HOME/.zshrc"
+ln -s "$DOT_DIR/.zshrc" "$HOME/.zshrc"
+
+echo "--- All done! ---"
