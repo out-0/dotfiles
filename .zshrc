@@ -1,3 +1,7 @@
+export PATH="$PATH:/home/out/.local/bin"
+export PATH="$PATH:/home/out/.local/bin/"
+export PATH="$PATH:~/.local/bin/"
+
 # ---------------------------
 # Zinit setup
 # ---------------------------
@@ -148,7 +152,6 @@ eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
 
 alias py='clear; python3'
-export PATH="$PATH:/home/out/.local/bin"
 
 
 # Hyprland Rotation Aliases
