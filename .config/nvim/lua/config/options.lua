@@ -14,10 +14,11 @@ vim.opt.softtabstop = 4 -- editing “feel” of tab
 -- For mini sinpest plugin
 vim.g.lazyvim_mini_snippets_in_completion = false
 
-
 -- Tabs at the top of the window
 vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 
+vim.opt.number = false -- Hide line numbers
+vim.opt.relativenumber = false -- Hide relative line numbers
 vim.opt.number = false -- Hide line numbers
 vim.opt.relativenumber = false -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
@@ -84,17 +85,17 @@ opt.completeopt = "menu,menuone,noselect"
 opt.conceallevel = 2 -- Hide * markup for bold and italic, but not markers with substitutions
 opt.confirm = true -- Confirm to save changes before exiting modified buffer
 opt.cursorline = false -- Enable highlighting of the current line
-opt.cursorcolumn = false   -- disable cursor column highlighting
+opt.cursorcolumn = false -- disable cursor column highlighting
 opt.expandtab = false -- Use spaces instead of tabs
 opt.fillchars = {
-  foldopen = "",
-  foldclose = "",
-  fold = " ",
-  foldsep = " ",
-  diff = "╱",
-  eob = " ",
+        foldopen = "",
+        foldclose = "",
+        fold = " ",
+        foldsep = " ",
+        diff = "╱",
+        eob = " ",
 }
-opt.foldcolumn = "0"       -- disable fold column
+opt.foldcolumn = "0" -- disable fold column
 opt.foldlevel = 99
 opt.foldmethod = "indent"
 opt.foldtext = ""
@@ -125,7 +126,8 @@ opt.signcolumn = "yes" -- Always show the signcolumn, otherwise it would shift t
 opt.smartcase = true -- Don't ignore case with capitals
 opt.smartindent = true -- Insert indents automatically
 opt.smoothscroll = true
-opt.spelllang = { "en" }
+opt.spell = true
+opt.spelllang = { "en_us" }
 opt.splitbelow = true -- Put new windows below current
 opt.splitkeep = "screen"
 opt.splitright = true -- Put new windows right of current
