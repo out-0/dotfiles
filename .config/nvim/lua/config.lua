@@ -10,7 +10,6 @@ vim.keymap.set("n", "<leader>fb", ":Telescope buffers<CR>", { desc = "List buffe
 -- Options
 -- For Formating
 vim.opt.expandtab = false	--Taps
->>>>>>> test-branch
 vim.opt.tabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.smarttab = true
