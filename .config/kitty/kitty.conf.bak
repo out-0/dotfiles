@@ -1,47 +1,88 @@
-# Catppuccin-Mocha
-include current-theme.conf
-window_padding_width 12
+# ── Font ───────────────────────────────
+# font_family			"" 
+font_weight			black
+# italic_font			auto
+# bold_italic_font	auto
+font_size			12.0
 
-font_size 10.0
-enable_ligature true
+# stormy
+background #1a1b26
 
-confirm_os_window_close 0
-# font_family  family="JetBrains Mono Nerd Font"
-# bold_font        auto
-# italic_font      auto
-# bold_italic_font auto
-# disable_ligatures always
+# mocha
+background #1e1e2e
 
-map ctrl+shift+c copy_to_clipboard
-map ctrl+shift+v paste_from_clipboard
+# Rose Pine
+background #191724
 
+# Purple
+background #1A001A 
+#background #2E1A47
 
-enable_audio_bell no
+# Dracula base
+background #282a36
+background #19001E
 
-
-window_padding_width 5
-window_margin_width 5
-# window_border_width 2px
-active_border_color #e0e4e5
-inactive_border_color #9EA3A7
-enabled_layouts Tall, *
-
-enable_image_protocol yes
-
-# initial_window_width 95c
-# initial_window_height 35c
-
-background_opacity 0.95
+# Wisteria
+#background #29193d
 
 
-# BEGIN_KITTY_THEME
-# Catppuccin-Mocha
-# include current-theme.conf
-# END_KITTY_THEME
+# ── Window ─────────────────────────────
+hide_window_decorations no
+remember_window_size    yes
+window_padding_width	0
+background_opacity      0.9
+background_blur         1
+
+# ── Cursor ─────────────────────────────
+cursor_shape       block
+cursor             #cdd6f4
+cursor_text_color  #1e1e2e
+
+# ── URL ───────────────"akinsho/bufferline.nvim",─────────────────
+url_color #89b4fa
+
+# ── Borders ────────────────────────────
+active_border_color   #b4befe
+inactive_border_color #1e1e2e
+
+# ── Tabs ───────────────────────────────
+active_tab_background   #b4befe
+active_tab_foreground   #45475a
+inactive_tab_background #1e1e2e
+inactive_tab_foreground #cdd6f4
+
+# ── Colors ─────────────────────────────
+enabled_layouts splits
+
+# Split windows
+map ctrl+h launch --location=hsplit
+map ctrl+n launch --location=vsplit
+map ctrl+shift+w close_window
+map ctrl+shift+arrow focus_window in_direction
+
+
+# Focus between splits (Vim style)
+map ctrl+h neighboring_window left
+map ctrl+j neighboring_window down
+map ctrl+k neighboring_window up
+map ctrl+l neighboring_window right
+
+
+
+# Move windows
+map ctrl+shift+m move_window
+
+# Resize splits
+map ctrl+shift+r resize_window
+
+# Remove the padding.
+window_padding_width 0
+
+shell /usr/bin/zsh
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="JetBrainsMono Nerd Font Mono"
+font_family      family="FreeMono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto

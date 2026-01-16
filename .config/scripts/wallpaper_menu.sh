@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WALLPAPER_DIR="$HOME/Downloads/"
+WALLPAPER_DIR="$HOME/.config/Wallpapers/"
 
 # Start swww-daemon if it's not running
 pgrep -x swww-daemon > /dev/null || swww-daemon &

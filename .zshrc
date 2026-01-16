@@ -1,3 +1,7 @@
+export PATH="$PATH:/home/out/.local/bin"
+export PATH="$PATH:/home/out/.local/bin/"
+export PATH="$PATH:~/.local/bin/"
+
 # ---------------------------
 # Zinit setup
 # ---------------------------
@@ -148,4 +152,10 @@ eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
 
 alias py='clear; python3'
-export PATH="$PATH:/home/out/.local/bin"
+
+
+# Hyprland Rotation Aliases
+#alias flip-right="hyprctl keyword monitor eDP-1, transform, 1"
+#alias flip-left="hyprctl keyword monitor eDP-1, transform, 3"
+alias rotateinverted="hyprctl keyword monitor eDP-1, transform, 2"
+alias rotatenormal="hyprctl keyword monitor eDP-1, transform, 0"

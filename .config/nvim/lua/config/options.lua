@@ -14,12 +14,18 @@ vim.opt.softtabstop = 4 -- editing “feel” of tab
 -- For mini sinpest plugin
 vim.g.lazyvim_mini_snippets_in_completion = false
 
-
 -- Tabs at the top of the window
 vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 
+<<<<<<< HEAD
 vim.opt.number = false         -- Hide line numbers
 vim.opt.relativenumber = false-- Hide relative line numbers
+=======
+vim.opt.number = false -- Hide line numbers
+vim.opt.relativenumber = false -- Hide relative line numbers
+vim.opt.number = false -- Hide line numbers
+vim.opt.relativenumber = false -- Hide relative line numbers
+>>>>>>> temp-fix
 -- Fix Fish shell slowness/compatibility in Neovim
 vim.opt.shell = "/bin/zsh"
 
@@ -84,17 +90,17 @@ opt.completeopt = "menu,menuone,noselect"
 opt.conceallevel = 2 -- Hide * markup for bold and italic, but not markers with substitutions
 opt.confirm = true -- Confirm to save changes before exiting modified buffer
 opt.cursorline = false -- Enable highlighting of the current line
-opt.cursorcolumn = false   -- disable cursor column highlighting
+opt.cursorcolumn = false -- disable cursor column highlighting
 opt.expandtab = false -- Use spaces instead of tabs
 opt.fillchars = {
-  foldopen = "",
-  foldclose = "",
-  fold = " ",
-  foldsep = " ",
-  diff = "╱",
-  eob = " ",
+        foldopen = "",
+        foldclose = "",
+        fold = " ",
+        foldsep = " ",
+        diff = "╱",
+        eob = " ",
 }
-opt.foldcolumn = "0"       -- disable fold column
+opt.foldcolumn = "0" -- disable fold column
 opt.foldlevel = 99
 opt.foldmethod = "indent"
 opt.foldtext = ""
