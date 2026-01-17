@@ -8,6 +8,9 @@ return {
         "pyright",   -- Python
         "lua-language-server",
         "bash-language-server",
+        "python-lsp-server",
+        "flake8",
+
       },
     },
   },

@@ -10,6 +10,6 @@ return {
   { "lukas-reineke/indent-blankline.nvim", enabled = false },
   -- gitsigns for github features
   { "lewis6991/gitsigns.nvim", enabled = false },
-  { "nvim-lualine/lualine.nvim", enabled = false },
+  { "nvim-lualine/lualine.nvim", enabled = true},
   { "akinsho/bufferline.nvim", enabled = false },
 }

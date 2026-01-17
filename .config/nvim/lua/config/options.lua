@@ -19,10 +19,6 @@ vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 
 vim.opt.number = false -- Hide line numbers
 vim.opt.relativenumber = false -- Hide relative line numbers
-vim.opt.number = false -- Hide line numbers
-vim.opt.relativenumber = false -- Hide relative line numbers
-vim.opt.number = false -- Hide line numbers
-vim.opt.relativenumber = false -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
 vim.opt.shell = "/bin/zsh"
 
@@ -110,7 +106,7 @@ opt.inccommand = "nosplit" -- preview incremental substitute
 opt.jumpoptions = "view"
 opt.laststatus = 0 -- global statusline
 opt.cmdheight = 0
-opt.showcmd = false
+opt.showcmd = true
 opt.linebreak = true -- Wrap lines at convenient points
 opt.list = false -- Show some invisible characters (tabs...
 opt.mouse = "a" -- Enable mouse mode
