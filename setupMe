@@ -3,18 +3,39 @@
 # --- 1. SETUP DIRECTORIES ---
 mkdir -p ~/.config
 mkdir -p ~/.local/share
+mkdir -p ~/.local/bin  # Ensure local bin exists for no-sudo installs
 
 # --- 2. CONFIGURATION ---
-# Define your dotfiles path (use absolute path)
 DOT_DIR="$HOME/dotfiles"
-
-# List all items inside ~/dotfiles/.config/ that you want to link
 CONFIG_ITEMS=(
     "nvim" "starship.toml" "swaylock" "kitty" "wlogout" 
     "hypr" "fish" "fastfetch" "Code" "rofi" "scripts" "Wallpapers"
 )
 
-# --- 3. EXECUTION ---
+# --- 3. INSTALL CLI TOOLS (No Sudo) ---
+echo "Checking for CLI tools..."
+
+# Install fzf
+if ! command -v fzf &> /dev/null; then
+    echo "Installing fzf..."
+    git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+    ~/.fzf/install --bin
+    cp ~/.fzf/bin/fzf ~/.local/bin/
+fi
+
+# Install zoxide
+if ! command -v zoxide &> /dev/null; then
+    echo "Installing zoxide..."
+    curl -sSfL https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | sh
+fi
+
+# Install starship
+if ! command -v starship &> /dev/null; then
+    echo "Installing starship..."
+    curl -sS https://starship.rs/install.sh | sh -s -- --bin-dir ~/.local/bin --yes
+fi
+
+# --- 4. EXECUTION ---
 
 # A. Link Fonts
 echo "Linking fonts..."
@@ -22,7 +43,7 @@ rm -rf ~/.local/share/fonts
 ln -s "$DOT_DIR/fonts" ~/.local/share/fonts
 fc-cache -fv > /dev/null
 
-# B. Link .config items using a loop
+# B. Link .config items
 echo "Linking config files..."
 for item in "${CONFIG_ITEMS[@]}"; do
     rm -rf "$HOME/.config/$item"
@@ -30,9 +51,10 @@ for item in "${CONFIG_ITEMS[@]}"; do
     echo "  [✔] $item"
 done
 
-# C. Link home files (like .zshrc)
+# C. Link home files
 echo "Linking home files..."
 rm -f "$HOME/.zshrc"
 ln -s "$DOT_DIR/.zshrc" "$HOME/.zshrc"
 
 echo "--- All done! ---"
+echo "Note: Make sure ~/.local/bin is in your PATH in your .zshrc"

@@ -1,6 +1,7 @@
 export PATH="$PATH:/home/out/.local/bin"
 export PATH="$PATH:/home/out/.local/bin/"
 export PATH="$PATH:~/.local/bin/"
+export PATH="$HOME/.local/bin:$PATH"
 
 # ---------------------------
 # Zinit setup
