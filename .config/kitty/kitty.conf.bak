@@ -82,7 +82,7 @@ shell /usr/bin/zsh
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="JetBrains Mono"
+font_family      family="GoMono Nerd Font Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
@@ -98,3 +98,9 @@ listen_on unix:/tmp/mykitty
 spacing 0
 
 
+
+
+# BEGIN_KITTY_THEME
+# Adventure Time
+include current-theme.conf
+# END_KITTY_THEME
