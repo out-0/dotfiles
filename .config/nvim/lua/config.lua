@@ -7,17 +7,4 @@ vim.keymap.set("n", "<leader>fb", ":Telescope buffers<CR>", { desc = "List buffe
 
 
 
--- Options
--- For Formating
-vim.opt.expandtab = false	--Taps
-vim.opt.tabstop = 4
-vim.opt.shiftwidth = 4
-vim.opt.smarttab = true
-vim.opt.autoindent = true
-vim.opt.number = true
-vim.opt.relativenumber = false
-vim.opt.mouse = "a"
-vim.opt.termguicolors = true
-vim.opt.background = "dark"
-vim.opt.clipboard = "unnamedplus"
 

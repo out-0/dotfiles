@@ -6,21 +6,21 @@ font_weight			black
 font_size			12.0
 
 # stormy
-background #1a1b26
+# background #1a1b26
 
 # mocha
-background #1e1e2e
+# background #1e1e2e
 
 # Rose Pine
-background #191724
+#background #191724
 
 # Purple
-background #1A001A 
+#background #1A001A 
 #background #2E1A47
 
 # Dracula base
-background #282a36
-background #19001E
+#background #282a36
+#background #19001E
 
 # Wisteria
 #background #29193d
@@ -30,26 +30,26 @@ background #19001E
 hide_window_decorations no
 remember_window_size    yes
 window_padding_width	0
-background_opacity      0.9
+background_opacity      1
 background_blur         1
 
 # ── Cursor ─────────────────────────────
 cursor_shape       block
-cursor             #cdd6f4
-cursor_text_color  #1e1e2e
+# cursor             #cdd6f4
+# cursor_text_color  #1e1e2e
 
 # ── URL ───────────────"akinsho/bufferline.nvim",─────────────────
-url_color #89b4fa
+# url_color #89b4fa
 
 # ── Borders ────────────────────────────
-active_border_color   #b4befe
-inactive_border_color #1e1e2e
+# active_border_color   #b4befe
+# inactive_border_color #1e1e2e
 
 # ── Tabs ───────────────────────────────
-active_tab_background   #b4befe
-active_tab_foreground   #45475a
-inactive_tab_background #1e1e2e
-inactive_tab_foreground #cdd6f4
+# active_tab_background   #b4befe
+# active_tab_foreground   #45475a
+# inactive_tab_background #1e1e2e
+# inactive_tab_foreground #cdd6f4
 
 # ── Colors ─────────────────────────────
 enabled_layouts splits
@@ -82,8 +82,19 @@ shell /usr/bin/zsh
 
 
 # BEGIN_KITTY_FONTS
-font_family      family="FreeMono"
+font_family      family="JetBrains Mono"
 bold_font        auto
 italic_font      auto
 bold_italic_font auto
 # END_KITTY_FONTS
+
+
+# Use Noto Color Emoji for the Unicode range of emojis
+#symbol_map U+1F300-U+1Faff Noto Color Emoji
+
+allow_remote_control yes
+listen_on unix:/tmp/mykitty
+# This forces Kitty to handle emojis as double-width symbols
+spacing 0
+
+

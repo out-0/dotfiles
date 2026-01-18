@@ -159,3 +159,7 @@ alias py='clear; python3'
 #alias flip-left="hyprctl keyword monitor eDP-1, transform, 3"
 alias rotateinverted="hyprctl keyword monitor eDP-1, transform, 2"
 alias rotatenormal="hyprctl keyword monitor eDP-1, transform, 0"
+
+
+alias kitty_themes='kitten themes'
+alias kitty_fonts='kitten choose-fonts'

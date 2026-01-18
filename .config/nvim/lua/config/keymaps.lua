@@ -15,4 +15,3 @@ vim.keymap.set("n", "<leader>hd", ":lua require('harpoon.mark').rm_file()<CR>", 
 vim.keymap.set("n", "<leader>hp", ":lua require('harpoon.ui').nav_prev()<CR>", {})
 vim.keymap.set("n", "<leader>hn", ":lua require('harpoon.ui').nav_next()<CR>", {})
 
-
