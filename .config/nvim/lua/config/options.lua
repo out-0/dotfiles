@@ -17,8 +17,8 @@ vim.g.lazyvim_mini_snippets_in_completion = false
 -- Tabs at the top of the window
 vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 
-vim.opt.number = false -- Hide line numbers
-vim.opt.relativenumber = false -- Hide relative line numbers
+vim.opt.number = true -- Hide line numbers
+vim.opt.relativenumber = true -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
 vim.opt.shell = "/bin/zsh"
 
@@ -104,7 +104,7 @@ opt.grepprg = "rg --vimgrep"
 opt.ignorecase = true -- Ignore case
 opt.inccommand = "nosplit" -- preview incremental substitute
 opt.jumpoptions = "view"
-opt.laststatus = 0 -- global statusline
+opt.laststatus = 1 -- global statusline
 opt.cmdheight = 0
 opt.showcmd = true
 opt.linebreak = true -- Wrap lines at convenient points
@@ -138,7 +138,7 @@ opt.undolevels = 10000
 opt.updatetime = 200 -- Save swap file and trigger CursorHold
 opt.virtualedit = "block" -- Allow cursor to move where there is no text in visual block mode
 opt.wildmode = "longest:full,full" -- Command-line completion mode
-opt.winminwidth = 5 -- Minimum window width
+opt.winminwidth = 3 -- Minimum window width
 opt.wrap = false -- Disable line wrap
 
 -- Fix markdown indentation settings
