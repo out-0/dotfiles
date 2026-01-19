@@ -10,8 +10,8 @@ return {
         "lua-language-server",
         "bash-language-server",
         "python-lsp-server",
-        "flake8",
-
+        "autoflake",
+        "flakeheaven"
       },
     },
   },
