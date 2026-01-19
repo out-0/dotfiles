@@ -19,7 +19,8 @@ return {
     end,
     keys = {
       -- This keybind triggers telescope AND the extension
-      { "<leader>j", "<cmd>Telescope emoji<cr>", desc = "Emoji Search" },
+      --{ "<leader>j", "<cmd>Telescope emoji<cr>", desc = "Emoji Search" },
+      { "<leader>j", "<cmd>Emoji<cr>", desc = "Emoji Search" },
     },
   },
 
