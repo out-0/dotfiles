@@ -130,4 +130,7 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 
-export PATH="/home/aarid/.pixi/bin:$PATH"
+# Start Fastfetch automatically
+if command -v fastfetch &> /dev/null; then
+    fastfetch
+fi

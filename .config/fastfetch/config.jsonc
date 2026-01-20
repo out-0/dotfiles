@@ -1,21 +1,20 @@
 {
     "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
     "logo": {
-    	"source": "~/.config/fastfetch/img2.png",
+    	"source": "~/.config/fastfetch/img2_resized.png",
     	//"source": "~/.config/fastfetch/image.png.png",
     	"type": "kitty-direct",
+		"width": 28,  // Adjust this to see how much space the image takes
     	"padding": {
-    		"top": 12,
-                "left": 2
+    		"top": 1,
+                "left": 1,
+		"preserveAspectRatio": true
     	}
     },
     "display": {
         "separator": " "
     },
     "modules": [
-	"break",
-        "break",
-        "break",
 	{
             "type": "custom",
             "format": "\u001b[90m  \u001b[31m  \u001b[32m  \u001b[33m  \u001b[34m  \u001b[35m  \u001b[36m  \u001b[37m  "
