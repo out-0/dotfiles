@@ -17,8 +17,8 @@ vim.g.lazyvim_mini_snippets_in_completion = false
 -- Tabs at the top of the window
 vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 
-vim.opt.number = false -- Hide line numbers
-vim.opt.relativenumber = false -- Hide relative line numbers
+vim.opt.number = true -- Hide line numbers
+vim.opt.relativenumber = true -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
 vim.opt.shell = "/bin/zsh"
 

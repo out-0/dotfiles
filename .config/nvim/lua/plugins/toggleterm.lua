@@ -6,7 +6,7 @@ return {
     { "<leader>t", "<cmd>ToggleTerm direction=horizontal<cr>", desc = "Terminal Bottom" },
   },
   opts = {
-    size = 15,
+    size = 20,
     direction = "horizontal",
     shade_terminals = true,
     start_in_insert = true,
