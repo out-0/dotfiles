@@ -62,7 +62,7 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'eza $realpath'
 # ---------------------------
 alias ..='cd ..'
 alias l='eza -lh --icons=auto'
-alias ls='eza -lia --icons=auto'
+alias ls='eza -lha --icons=auto --group-directories-first'
 alias ll='eza -lha --icons=auto --sort=name --group-directories-first'
 alias ld='eza -lhD --icons=auto'
 alias mkdir='mkdir -p'
@@ -91,6 +91,7 @@ alias lg='lazygit'
 # ---------------------------
 alias battery='upower -i /org/freedesktop/UPower/devices/battery_BAT1'
 alias py='clear; python3'
+alias cls='clear'
 
 # Hyprland Rotation Aliases
 alias rotateinverted="hyprctl keyword monitor eDP-1, transform, 2"
