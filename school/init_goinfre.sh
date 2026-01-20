@@ -89,11 +89,6 @@ echo "🎧 Optimizing Discord (Stay logged in + Save space)..."
 DISCORD_HOME="$HOME/.config/discord"
 DISCORD_GOINFRE="$GOINFRE/discord_cache"
 
-# 1. Create the structure
-mkdir -p "$DISCORD_HOME"
-mkdir -p "$DISCORD_GOINFRE/Cache"
-mkdir -p "$DISCORD_GOINFRE/Code_Cache"
-mkdir -p "$DISCORD_GOINFRE/GPUCache"
 
 # 2. Link the heavy folders specifically
 # Cache
@@ -107,14 +102,6 @@ if [ ! -L "$DISCORD_HOME/Code Cache" ]; then
     rm -rf "$DISCORD_HOME/Code Cache"
     ln -sf "$DISCORD_GOINFRE/Code_Cache" "$DISCORD_HOME/Code Cache"
 fi
-
-# GPU Cache
-if [ ! -L "$DISCORD_HOME/GPUCache" ]; then
-    rm -rf "$DISCORD_HOME/GPUCache"
-    ln -sf "$DISCORD_GOINFRE/GPUCache" "$DISCORD_HOME/GPUCache"
-fi
-
-
 
 
 # --- 6. HOUSEKEEPING ---
