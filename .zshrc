@@ -61,5 +61,19 @@ eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
 
-# Launch Fastfetch on start
-[[ -f $(command -v fastfetch) ]] && fastfetch
+# Start Fastfetch automatically
+if command -v fastfetch &> /dev/null; then
+    fastfetch
+fi
+
+# ----------Random Cyberpunk Theme Picker
+if [[ -n "$KITTY_WINDOW_ID" ]]; then
+    THEME_FILE="$HOME/school-config/kitty_themes.txt"
+    if [ -f "$THEME_FILE" ]; then
+        # Pick one random line
+        CHOSEN_THEME=$(shuf -n 1 "$THEME_FILE")
+        # Apply it instantly to this window
+		# If you want each terminal Independent replace 'all' by 'none'
+        kitten themes --reload-in=all "$CHOSEN_THEME"
+    fi
+fi
