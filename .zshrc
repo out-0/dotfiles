@@ -1,9 +1,7 @@
-# PATS EXPORTATION-----------------------------------------------------------
-export PATH="$HOME/.local/bin:$PATH"
+# --- 1. PATHS & CORE ---
+export PATH="$HOME/.local/bin:$HOME/miniconda3/bin:$PATH"
 
-# ---------------------------
-# Zinit setup
-# ---------------------------
+# --- 2. ZINIT SETUP (Plugin Manager) ---
 ZINIT_HOME="${XDG_DATA_HOME:-${HOME}/.local/share}/zinit/zinit.git"
 if [ ! -d "$ZINIT_HOME" ]; then
     mkdir -p "$(dirname "$ZINIT_HOME")"
@@ -11,14 +9,7 @@ if [ ! -d "$ZINIT_HOME" ]; then
 fi
 source "${ZINIT_HOME}/zinit.zsh"
 
-# ---------------------------
-# Completion system
-# ---------------------------
-autoload -Uz compinit && compinit
-
-# ---------------------------
-# Plugins via zinit
-# ---------------------------
+# Plugins
 zinit light Aloxaf/fzf-tab
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
@@ -27,79 +18,48 @@ zinit snippet OMZP::git
 zinit snippet OMZP::sudo
 zinit cdreplay -q
 
-# ---------------------------
-# History config
-# ---------------------------
-HISTSIZE=500000
+# --- 3. COMPLETIONS & HISTORY ---
+autoload -Uz compinit && compinit
+HISTSIZE=50000
 HISTFILE=~/.zsh_history
 SAVEHIST=$HISTSIZE
-HISTDUP=erase
 setopt appendhistory sharehistory hist_ignore_space hist_ignore_all_dups \
        hist_save_no_dups hist_ignore_dups hist_find_no_dups
 
-# ---------------------------
-# Completion styling
-# ---------------------------
+# Styles
 zstyle ':completion:*' matcher-list 'm:{a-z}={A-Za-z}'
 zstyle ':completion:*' list-colors "${(s.:.)LS_COLORS}"
-zstyle ':completion:*' menu no
-zstyle ':fzf-tab:complete:cd:*' fzf-preview 'eza $realpath'
-zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'eza $realpath'
+zstyle ':fzf-tab:complete:cd:*' fzf-preview 'eza --icons=always --color=always $realpath'
 
-# ---------------------------
-# Core utility aliases
-# ---------------------------
+# --- 4. ALIASES ---
+
+# Navigation & Listing (Using eza)
 alias ..='cd ..'
-alias l='eza -lh --icons=auto'
-alias ls='eza -lha --icons=auto --group-directories-first'
-alias ll='eza -lha --icons=auto --sort=name --group-directories-first'
-alias ld='eza -lhD --icons=auto'
-alias mkdir='mkdir -p'
-alias tree='tree -a -I .git'
+alias ls='eza -ha --icons=auto --group-directories-first'
+alias ll='eza -lha --icons=auto --group-directories-first'
+alias tree='eza --tree --icons=auto'
+
+# Essentials
 alias c='clear'
+alias cls='clear'
 alias e='exit'
 alias vim='nvim'
 alias v='nvim'
+alias py='python3'
 alias grep='rg --color=auto'
-alias ssn='sudo shutdown now'
-alias srn='sudo reboot now'
-alias pdf='evince'
-alias open='ranger'
-alias wifi='nm-applet --indicator'
-
-# ---------------------------
-# Git aliases
-# ---------------------------
-alias gac='git add . && git commit -m'
-alias gs='git status'
-alias gpush='git push origin'
 alias lg='lazygit'
 
-# ---------------------------
-# useful aliases
-# ---------------------------
-alias battery='upower -i /org/freedesktop/UPower/devices/battery_BAT1'
-alias py='clear; python3'
-alias cls='clear'
+# Git
+alias gac='git add . && git commit -m'
+alias gs='git status'
+alias gp='git push'
 
-# Hyprland Rotation Aliases
-alias rotateinverted="hyprctl keyword monitor eDP-1, transform, 2"
-alias rotatenormal="hyprctl keyword monitor eDP-1, transform, 0"
-alias kitty_themes='kitten themes'
-alias kitty_fonts='kitten choose-fonts'
+alias setup-school='~/school-config/init_goinfre.sh'
 
-lsfind() {
-    ll "$1" | grep "$2"
-}
-
-# ---------------------------
-# Clipboard aliases (Wayland)
-# ---------------------------
-alias pbcopy='wl-copy'
-alias pbpaste='wl-paste'
-
-# ---------------------------
-# Shell integrations
+# --- 5. SHELL INTEGRATIONS ---
 eval "$(fzf --zsh)"
 eval "$(zoxide init --cmd cd zsh)"
 eval "$(starship init zsh)"
+
+# Launch Fastfetch on start
+[[ -f $(command -v fastfetch) ]] && fastfetch
