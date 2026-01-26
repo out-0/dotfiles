@@ -36,7 +36,7 @@ if [ -f "$THEME_FILE" ]; then
             swww query > /dev/null 2>&1 || swww init > /dev/null 2>&1
             
             # Change wallpaper instantly, silence output
-            swww img "$WP_PATH" --transition-type center --transition-step 255 --transition-fps 165 > /dev/null 2>&1
+            swww img "$WP_PATH"  > /dev/null 2>&1
         } & 
     fi
     # 2. Apply Kitty Theme
