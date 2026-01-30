@@ -46,3 +46,12 @@ vim.api.nvim_create_autocmd("FileType", {
     vim.opt_local.expandtab = false
   end,
 })
+
+
+-- Automatically format Python files on save using the LSP (Ruff/Black)
+vim.api.nvim_create_autocmd("BufWritePre", {
+  pattern = "*.py",
+  callback = function()
+    vim.lsp.buf.format({ timeout_ms = 2000 })
+  end,
+})

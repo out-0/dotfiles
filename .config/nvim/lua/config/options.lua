@@ -20,7 +20,7 @@ vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 vim.opt.number = true -- Hide line numbers
 vim.opt.relativenumber = true -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
-vim.opt.shell = "/bin/zsh"
+vim.opt.shell = "/bin/fish"
 
 -- This file is automatically loaded by plugins.core
 vim.g.mapleader = " "
@@ -43,7 +43,7 @@ vim.g.lazyvim_picker = "snacks"
 -- Can be one of: nvim-cmp, blink.cmp
 -- Leave it to "auto" to automatically use the completion engine
 -- enabled with `:LazyExtras`
-vim.g.lazyvim_cmp = "auto"
+vim.g.lazyvim_cmp = "nvim-cmp"
 
 -- if the completion engine supports the AI source,
 -- use that instead of inline suggestions

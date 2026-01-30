@@ -7,9 +7,9 @@ return {
     },
   },
   -- Also disable the old one just in case you're on an older version
-  { "lukas-reineke/indent-blankline.nvim", enabled = false },
+  { "lukas-reineke/indent-blankline.nvim", enabled = true },
   -- gitsigns for github features
   { "lewis6991/gitsigns.nvim", enabled = false },
   { "nvim-lualine/lualine.nvim", enabled = true},
-  { "akinsho/bufferline.nvim", enabled = false },
+  { "akinsho/bufferline.nvim", enabled = true },
 }

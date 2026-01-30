@@ -6,7 +6,7 @@ return {
     priority = 1, -- Load this first!
     opts = {
       flavour = "storm", -- latte, frappe, macchiato, mocha
-      transparent_background = true,
+      transparent_background = false,
       term_colors = false,
       integrations = {
         cmp = true,

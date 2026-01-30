@@ -6,12 +6,13 @@ return {
     opts = {
       ensure_installed = {
         "clangd",    -- C/C++
-        "pyright",   -- Python
         "lua-language-server",
         "bash-language-server",
         "python-lsp-server",
         "flakeheaven",
-        "pyment"
+        "pyright",
+        "ruff",
+        --"pyment"
       },
     },
   },
