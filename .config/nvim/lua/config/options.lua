@@ -20,7 +20,7 @@ vim.opt.showtabline = 0 -- 0: never show, 1: show if 2+ tabs, 2: always show
 vim.opt.number = true -- Hide line numbers
 vim.opt.relativenumber = true -- Hide relative line numbers
 -- Fix Fish shell slowness/compatibility in Neovim
-vim.opt.shell = "/bin/fish"
+vim.opt.shell = "/bin/zsh"
 
 -- This file is automatically loaded by plugins.core
 vim.g.mapleader = " "

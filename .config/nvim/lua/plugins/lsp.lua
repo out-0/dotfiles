@@ -10,9 +10,9 @@ return {
         "bash-language-server",
         "python-lsp-server",
         "flakeheaven",
-        "pyright",
         "ruff",
-        --"pyment"
+        "django-template-lsp",
+        "harper-ls",
       },
     },
   },
